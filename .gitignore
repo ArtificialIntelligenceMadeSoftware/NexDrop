@@ -1,0 +1,23 @@
+# User data and machine-local configuration
+nexdrop_config.json
+transfer_history.json
+NEXDROP_Data/
+Shared_Folder/
+upload_parts/
+*.tmp
+.env
+
+# Python and build output
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+release/
+*.toc
+*.log
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
